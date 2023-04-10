@@ -68,5 +68,22 @@ div:nth-child(4){
 }
 div:nth-child(4) a:hover{
     color: pink;
+}
+#services{
+    text-align: center;
+    margin-top: 120px;
+    background-color: lightgray;
+    padding: 95px;
+}
+ul li{
+    display: inline-block;
+    background-color: white;
+    padding: 30px;
+    margin-top: 20px;
+    width: 10%;
+    justify-content: space-between;
 
+}
+li:first-child:hover{
+    background-color: pink;
 }
